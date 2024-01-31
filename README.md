@@ -2,4 +2,4 @@
 
 # Railway Routes Extraction from OSM (Work in progress)
 
-This script uses OSMnx library to extract railway route from OpenStreetMaps' roads data by taking CSV files comrpising the station locations along the route as input.
+This script uses OSMnx library to extract railway route from OpenStreetMaps' roads data by taking CSV files comrpising the station locations along the route as input. A sample of the output geometries can be found in [/Output_RouteGeometries/](https://github.com/rajesvariparasa/railway-routes-extraction-from-OSM/tree/main/Output_RouteGeometries)
